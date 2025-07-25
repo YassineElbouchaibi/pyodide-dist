@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: dash
+Version: 2.1.0
+Summary: A Python framework for building reactive web-apps. Developed by Plotly.
+Author: Chris Parmer
+Author-email: chris@plotly.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: Flask>=1.0.4
+Requires-Dist: flask-compress
+Requires-Dist: plotly>=5.0.0
+Requires-Dist: dash_html_components==2.0.0
+Requires-Dist: dash_core_components==2.0.0
+Requires-Dist: dash_table==5.0.0
+Requires-Dist: importlib-metadata==4.8.3; python_version < "3.7"
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
